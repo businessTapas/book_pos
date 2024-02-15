@@ -1,0 +1,58 @@
+
+
+/* #page-topbar{
+    background: #fff !important;
+}
+ .topnav .navbar-nav .nav-link {
+    color: #000 !important;
+ }
+ .topnav .navbar-nav .nav-link:hover i {
+    color: #6B63D4 !important;
+ }
+ .l_button{
+    width: 165px;
+ }
+ .logo span.logo-sm img{
+    width: 230px;
+ }
+ .banner{
+    background: linear-gradient(138.18deg, #eae8fd 0%, #fce5e6 94.44%);
+ }
+ .sub_banner{
+    text-align: center;
+ }
+ .sub_banner h1{
+    background: linear-gradient(to right, #28c76f 0%, #5a4aff 47.92%, #ff3739 100%);
+    background-size: 200% auto;
+    color: #5d596c;
+    background-clip: text;
+    line-height: 1.2;
+    text-fill-color: rgba(0,0,0,0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0,0,0,0);
+    animation: shine 2s ease-in-out infinite alternate;
+    font-size: 2.625rem;
+ }
+ .sub_banner p{
+    font-size: 20px;
+ }
+ .page-content {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
+ .section_padding{
+    padding: 80px 0;
+ }
+ .bg-light {
+    background-color: inherit !important;
+ }
+ .auth-page{
+    background-image: url(/assets/images/product/1.png);
+    background: #f9f6fa;
+ }
+ .sub_features{
+    text-align: center;
+ } */
+.s_logo img{
+width: 200px;
+}

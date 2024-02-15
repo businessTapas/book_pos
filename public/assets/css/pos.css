@@ -1,0 +1,71 @@
+.verti-dash-content, .dash-troggle-icon, .verti-dash-content,
+.footer{
+    display: none;
+}
+#page-topbar{
+    margin-left: 0 !important;
+    display: none;
+}
+.main-content{
+    margin-left: 0 !important;
+}
+#page-topbar.pos-header{
+    display: block !important;
+}
+.pos-header .navbar-header{
+        height: 43px !important;
+}
+body:not([data-sidebar-size=sm]) .navbar-header .vertical-menu-btn{
+    display: block !important;
+}
+body[data-sidebar-size=sm] .vertical-menu {
+    width: 0 !important;
+    overflow: hidden;
+}
+body[data-sidebar-size=sm] .navbar-brand-box{
+        width: 0 !important;
+        overflow: hidden;
+        padding: 0;
+}
+.dash-product-box{
+    margin-bottom: 0;
+}
+#pos-prod-item-wrapper{
+    height: 63vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.invoice-fields-area .form-group {
+    padding-bottom: 0;
+}
+.about-modal{
+        position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.3rem 0.5rem;
+}
+.table>:not(caption)>*>*{
+        padding: 0.3rem;
+}
+.dash-product-img img{
+    max-height: 120px;
+    height: auto;
+}
+.dash-product-box:hover{
+    border-color: #776acf !important
+}
+.coupon-code{
+    border: 1px dashed #e4e4e4;
+font-weight: 600;
+border-radius: 4px;
+width: fit-content;
+}
+.btn-primary-subtle {
+color: #776acf;
+background-color: rgba(119,106,207,.1);
+border-color: transparent;
+}
